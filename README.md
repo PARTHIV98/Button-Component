@@ -37,7 +37,7 @@
 
 ## Overview
 
-!https://github.com/PARTHIV98/Button-Component/blob/master/src/assets/button-component.png
+!(https://github.com/PARTHIV98/Button-Component/blob/master/src/assets/button-component.png)
 
 Creating a Button Component is a great experience to learn new thing with different varients.
 
