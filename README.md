@@ -72,5 +72,5 @@ $ npm start
 
 ## Contact
 
-- GitHub [@PARTHIV98](https://{github.com/PARTHIV98})
+- GitHub [@PARTHIV98](https://github.com/PARTHIV98)
 
